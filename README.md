@@ -10,9 +10,11 @@ The chosen topic for this project deals with Food Access. The motivation behind 
 
 ## Machine Learning Model
 
-We plan to use a supervised machine learning model with the target variable being low access 1 to 10 (ie. 1 mile in urban vs. 10 miles in rural areas)
+We plan to use a supervised machine learning model with the target variable being low access 1 to 10 (ie. 1 mile in urban vs. 10 miles in rural areas).
 
 ## Database
+
+We designed a database using Postgres that filters and cleans the original data. We plan to join an additional data set to this database in upcoming segments for this project. 
 
 
 
