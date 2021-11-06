@@ -1,1 +1,6 @@
 # Final_Project
+
+
+## Presentation
+
+The chosen topic for this project deals with Food Access. The motivation behind this project is to identify and analyze communities that have a limited access to healthy and nutritious food. A food desert is defined as an area with limited access to affordable healthy food in contrast to an area with higher access to supermarkets and vegetable shops with organic foods, which is known as a food oasis. The United States Department of Agriculture estimates that there are over 23.5 million people living in food deserts. This means that the urban population is further than one mile to a supermarket  compared to ten miles in urban areas. These areas lack fresh foods and instead are surrounded by fast foods, which are high in sugar and saturated fats. Thus, thease areas tend to suffer from obesity and diabeetes. The data source we are using for this project comes from the United States Department of Agriculture Food Access Research Atlas 2019.  The data set contains census tract information for every county within the United States. THe variables asscoiated with each tract include median family income, poverty rate, population, percentage of population with a vehicle, and racial makeup of the location. We plan 
