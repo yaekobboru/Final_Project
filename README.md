@@ -11,6 +11,7 @@ The chosen topic for this project deals with Food Access. The motivation behind 
 ## Machine Learning Model
 
 We plan to use a supervised machine learning model with the target variable being low access 1 to 10 (ie. 1 mile in urban vs. 10 miles in rural areas).
+After looking at the results from a number of different models, we determined that our features were weak learners. Because of that we chose to use a random forest model. And we were able to slightly improve accuracy by boosting. While still not terribly accurate, it does perform better than the other models.
 
 ## Database
 
