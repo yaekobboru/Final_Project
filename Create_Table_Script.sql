@@ -87,7 +87,7 @@
                                          FOREIGN KEY(statecountyid) 
 	                                     REFERENCES state_county(statecountyid)
 						                );
-	INSERT INTO food_access_main (statecountyid, PctWhite, PctBlack, PctAsian, PctHispanic, PctOtherMinority)
+	INSERT INTO food_access_ethnicity (statecountyid, PctWhite, PctBlack, PctAsian, PctHispanic, PctOtherMinority)
 	SELECT  sc.statecountyid
 	      , PctWhite 
 	  	  , PctBlack 
